@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
+
+*{
+    margin: 1%;
+    padding: 1%s;
+    box-sizing: border-box;
+}
+body {
+    font: size 100px;
+    background-color: rgb(66, 37, 94);
+
+}
+.cabecalho-imag{
+    height: 62;
+
+
+}
+
+.cabecalho-menu{
+    display: flex;
+    gap: 32px;
+
+}
+
+    .cabecalho-menu-item{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+
+
+}
+.cabecalho-menu-item{
+    font-family: 'sarala', sans-serif;
+    color: antiquewhite;
+}
+.h3{
+    border-top: 0,4px; 
+    margin-bottom: 48px;
+
+}
+
+ .conteudo-principal-escrito-button:hover
+ {
+    background-color: rgba(238, 186, 16, 0.53);
+ }
+
+ .conteudo-principal{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;}
+
+    
+
+
+
+
+
+
+
+
+
+
+
